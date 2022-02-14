@@ -3,7 +3,7 @@ Simple fun project to pull counts of news website url shares from twitter during
 
 You will need a few things in place before you can run the code directly.
 
-1) The websites for which we need the data are in the excel file SniffTest_Sources_adfontesmedia. Modify this for your own purposes. The code only gets the counts for websties.
+1) The websites for which we need the data are in the excel file SniffTest_Sources_adfontesmedia. Modify this for your own purposes. The code only gets the counts for websites.
 2) Create a python file called twitter_auth.py with the following lines
 
 ```
